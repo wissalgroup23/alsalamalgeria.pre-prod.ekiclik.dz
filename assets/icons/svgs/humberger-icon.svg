@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
     <defs>
         <style>
-            .prefix__cls-1{fill:none;stroke:#003147;stroke-linecap:round;stroke-width:3px}
+            .prefix__cls-1{fill:none;stroke: #fffffc;stroke-linecap:round;stroke-width:3px}
         </style>
     </defs>
     <g id="prefix__Group_32" data-name="Group 32" transform="translate(-16 -40)">
