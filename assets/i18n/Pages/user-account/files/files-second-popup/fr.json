@@ -1,0 +1,22 @@
+{
+  "main_title" : "DOSSIER A FOURNIR",
+  "sub_title_one" : "Liste des documents physiques à fournir pour le financement via EKICLIK",
+  "main_docs" : {
+    "cni" : "Justificatif d’identité en cours de validité (C.N.I biométrique) (02) deux exemplaires",
+    "birth_act" : "Acte de naissance (02) deux exemplaires",
+    "residency" : "Justificatif de résidence de moins de 3 mois (Fiche de résidence) (02) deux exemplaires",
+    "ccp" : "Un chèque CCP barré",
+    "chifa_card" : "Une copie de la carte CHIFFA",
+    "photos" : "Deux (02) photos",
+    "bank_statement" : "Relevé de compte"
+  },
+  "sub-title_two" : "Ajouter aux précédents documents les fichiers suivants selon votre catégorie socioprofessionnelle :",
+  "sub_docs" : {
+    "married" : "Mariées : Une (01) fiche familiale",
+    "employee" : "Salariés : trois (03) dernières fiches de paie + Une attestation de travail de moins d’un (01) mois spécifiant le caractère indéterminé du contrat et la titularisation dans le poste occupé",
+    "retired" : "Retraités : attestation de perception de retraite + RENA",
+    "military" : "Militaire : Présence au Corp",
+    "military_retired" : "Retraité militaire: Attestation de Radiation",
+    "last_doc" : "Une copie de l'échéancier en cas de crédit en cours"
+  }
+}

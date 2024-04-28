@@ -1,0 +1,10 @@
+{
+  "validationCode": "CODE DE VALIDATION",
+  "text-one": "veuillez taper le code de vérification envoyé",
+  "au": "au",
+  "text-two": "Temps restant",
+  "sc": "secondes",
+  "time-is-out": "Oops ! le temps est écoulé, renvoyez le code",
+  "resend_code":  "RENVOYER LE CODE",
+  "wrongCode": "code erroné, réessayez !"
+}

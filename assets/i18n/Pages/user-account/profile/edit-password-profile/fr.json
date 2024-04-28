@@ -1,0 +1,13 @@
+{
+  "edit_password" : "MODIFIER VOTRE MOT DE PASSE",
+  "set_password" : "Entrer votre mot de passe",
+  "current_password" : "Mot de passe actuel",
+  "set_new_password" : "Entrer le nouveau mot de passe",
+  "new_password" : "Nouveau mot de passe",
+  "min_caracteres" : "caractères minimum",
+  "cancel" : "Annuler",
+  "change" : "Modifier",
+  "sb_pwd_msg": "Mot de passe modifié",
+  "new_mdp": "Entrer un mot de passe",
+  "incorrect_mdp": "Mot de passe incorrect"
+}

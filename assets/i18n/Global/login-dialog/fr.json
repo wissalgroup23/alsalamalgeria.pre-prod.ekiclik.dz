@@ -1,0 +1,21 @@
+{
+  "popUp": {
+    "ACCOUNT_NOT_EXIST": "Ce compte n'existe pas",
+    "ACCOUNT_NOT_ACTIVATED": "Votre compte n'est pas activé",
+    "ACCOUNT_BLOCKED": "Votre compte est bloqué! Contactez-nous pour plus d'informations",
+    "INCORRECT_CREDENTIALS": "Email ou mot de passe incorrect",
+    "LOGIN_CONNECT_TO_PRIVATE_SPACE": "Connectez-vous à votre espace privé",
+    "inscrire_button": "S'inscrire",
+    "mdp_oublier": "Mot de passe oublié",
+    "google_sinscrire": "Se connecter avec Google",
+    "reste_connecte": "Resté connecté",
+    "mail_correct": "Entrer un email correct",
+    "password_correct": "Le mot de passe doit contenir au moins 6 caractères",
+    "mdp": "Mot de passe",
+    "partenaire": "Votre partenaire de confiance",
+    "E-mail": " E-MAIL",
+    "Tel": "TELEPHONE"
+
+
+  }
+}

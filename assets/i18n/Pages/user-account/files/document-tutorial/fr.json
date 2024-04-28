@@ -1,0 +1,13 @@
+{
+  "scan_file" : {
+    "title" : "Documents à scanné verticalement",
+    "description" : "Pour obtenir une image de bonne qualité. Vous devez scanner ou prendre en photo le document dans le sens vertical (et pas incliner) sur une surface plane. Vérifiez que toutes les informations du document sont bien lisible."
+  },
+  "frame" : {
+    "title" : "Cadrer correctement les documents pour une qualité optimale",
+    "tutorial" : "Pour obtenir une image optimale, il est important de cadrer correctement le document avant de le prendre en photo ou de le scanner. Assurez-vous que tout le document est visible et lisible. Laisser des espaces (des marges) de part et d'autre pour que tous les mots soient lisibles par notre système ."
+  },
+  "next" : "SUIVANT",
+  "back" : "RETOURNER",
+  "done" : "TERMINER"
+}

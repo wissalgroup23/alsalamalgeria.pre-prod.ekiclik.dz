@@ -1,0 +1,19 @@
+{
+    "about": "EkiClik ......L'achat facile et pratique",
+    "partner": {
+        "title": "Notre Partenaire" ,
+        "description": "Al salam Bank Algeria est une banque qui active selon le droit algérien et dans le respect des principes de la Shari'a dans toutes ses transactions."
+        },
+    "links":
+    {
+        "title": "LIENS UTILES",
+        "folder": "Dossier client à fournir",
+        "conditions": "Conditions générales",
+        "mentions": "Mentions légales",
+        "FAQ" : "Aide et FAQ"
+    },
+  "sb_address_msg": "l’adresse email existe déjà",
+  "sb_mail_save": "Votre email a été enregistré",
+  "sb_valid_mail": "Veuillez saisir une adresse email valide",
+  "other_phone_number": "Nous sommes aussi joignables sur :"
+}

@@ -1,0 +1,35 @@
+{
+  "return-btn": "Retour à l'accueil",
+  "TOTAUX": "TOTAUX",
+  "Panier_facilité" : "Panier facilité",
+  "Informations_de_simulation":{
+    "IS_titre" : "Informations de simulation",
+    "date": "Date de naissance ",
+    "salaire": "Salaire (DZD) "
+},
+  "paiement": {
+    "paiement_title" : "Paiement sur",
+    "Mois" : "Mois",
+    "Frais" : "Frais de livraison",
+    "gratuit": "Gratuit",
+    "Total" : "Total de vos achats (Montant de financement)",
+    "currency" : "DZD",
+    "limit-title": "La limite du panier",
+    "min": "Min",
+    "max": "Max"
+  },
+  "commander" : "Commander",
+  "update-btn": "Modifier mon panier",
+  "SNACKBAR_MESSAGE": "Vous devez saisir un numéro de téléphone et un point de vente!",
+  "update_delivery-btn" : "Modifier le mode de livraison",
+  "sb_paymentErrorMessage" : "Vous devez choisir une Mensualité entre 12 et 64",
+  "sb_quantity_msg": " Produit ou quantité commandée non disponible, \n Modifier cette quantité ou supprimer ce produit de votre panier pour poursuivre votre commande",
+  "sb_pos_msg": "Vous devez saisir un point de vente et un numéro de téléphone",
+  "sb_delivery_msg": "Vous devez choisir une adresse de livraison",
+  "sb_no_delivery_msg": "Vous devez saisir un numéro de téléphone",
+  "sb_desktop_msg": "Vous devez saisir un numéro de téléphone",
+  "sb_phone_msg":"Vous devez saisir un numéro de téléphone valide!",
+  "sb_payment_msg01": "Une erreur est survenue dans le paiement, essayer à nouveau !",
+  "sb_payment_msg02": "Une erreur est survenue dans le paiement !",
+  "sb_server_error": "Une erreur est survenue !"
+}

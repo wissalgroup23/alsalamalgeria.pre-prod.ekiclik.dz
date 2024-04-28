@@ -1,0 +1,24 @@
+{
+  "popup-title" : "SIMULATION DE PANIER",
+  "Continuer": "CONTINUER",
+  "error_title_LTF" : "Montant d'achat inferieur à limite minimum autorisé",
+  "error_LTF" : "La somme des produits achetés doit dépasser \n  50 000 DZD. Essayez d'ajouter ou modifier la quantité des produits achetés atteindre ce montant",
+  "error_title_HTF" : "Vous avez dépasser la limite max d'achat autorisé",
+  "error_HTF" : "La somme des produits achetés ne doit pas dépasser 1 500 000 DZD. Essayez de réduire la quantité ou \n modifier la liste des produits achetés pour ne pas dépassé ce montant",
+  "error_title_HTC" : "Montant de commande supérieur à la capacité d'achat",
+  "error_HTC": "Vous avez dépassé la somme maximum autorisé. Essayez de changer les informations de simulation, réduire la\n quantité ou modifier la liste des produits achetés pour ne pas dépassé ce montant",
+  "currency" : "DZD",
+  "error_title_HTM" :"Mensualité supérieur à 30% de votre salaire",
+  "error_HTM": "La mensualité doit être égale ou inférieur à 30% de votre salaire.",
+  "paiement_popup": {
+    "paiement_title_popup" : "Paiement sur",
+    "Mois_popup" : "Mois"
+  },
+  "date": "Date de naissance :",
+  "salaire": "Salaire (DZD) :",
+  "date_error1": "Vous devez mentionner votre date de naissance",
+  "date_error2": "Votre age doit etre entre 18 et 75 ans",
+  "salaire_error1" : "Votre salaire doit etre supérieur a 25 000 DZD",
+  "salaire_error2": "Vous devez mentionner votre salaire"
+
+}

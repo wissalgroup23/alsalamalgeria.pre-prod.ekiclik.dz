@@ -1,0 +1,87 @@
+{
+  "affichage_des_informations": {
+    "title": "RÉCUPÉRATION AUTOMATIQUE DES INFORMATIONS",
+    "description" :
+    {
+      "desc1" : "Des données ont été extraites à partir de vos documents, veuillez les vérifier attentivement",
+      "desc2" : "avant de poursuivre, en cas d'erreurs ou de problème cliquez sur le bouton Service de réclamation pour nous contacter."
+    }
+  },
+  "personal_sit_title": "Situation personnelle",
+  "ps": {
+    "family_sit": "Situation familiale",
+    "inscription_level": "Niveau d'instruction",
+    "LESS_THAN_HIGH_SCHOOL": "Moins que le niveau secondaire",
+    "SECONDARY_LEVEL": "Niveau secondaire",
+    "BACHELOR": "Bachelier",
+    "UNIVERSITY": "Universitaire",
+    "child_in_charge":"Enfant à charge",
+    "others": "Autre personnes à charge",
+    "habitat_type": "Type d'habitation",
+    "WITH_PARENTS": "Avec les parents",
+    "OWNER": "Propriétaire",
+    "LEASE": "Location",
+    "FUNCTIONAL_ACCOMMODATION": "Logement de fonction",
+    "postal_code": "Code postale",
+    "step03_adr": "Adresse",
+    "step03_commune": "Commune",
+    "SINGLE": "Célibataire",
+    "MARRIED": "Marié",
+    "DIVORCE": "Divorcé",
+    "WIDOWER": "Veuf"
+  },
+  "personal_infos_title": "Informations personnelles",
+  "pi": {
+    "name_in_latin" : "Prénom",
+    "last_name_in_latin": "Nom",
+    "name_in_arabic" : "Prénom en arabe",
+    "lastname_in_arabic": "Nom en arabe",
+    "mother_name": "Prénom de la mère",
+    "mother_last_name": "Nom de la mère",
+    "father_name": "Prénom du père",
+    "step03_birthDate": "Date de naissance",
+    "step03_birthPlace": "Lieu de naissance",
+    "identity_piece": "Pièce d’identité",
+    "id_card":"Carte Nationale",
+    "idCardNumber": "Numéro de la pièce",
+    "deliveryDate": "Date délivrance de la pièce",
+    "validationDate": "Date d'expiration de la pièce",
+    "deliveryDaira": "Daïra de délivrance la pièce",
+    "nationalIdNumber": "Numéro d’identification national",
+    "socialSecurityNumber": "Numéro de sécurité sociale",
+    "actOfBrithNumber": "Numéro  acte de naissance"
+  },
+  "professional_sit_title": "Situation professionnelle",
+  "pro_s": {
+    "sitProf": "Catégorie professionnelle",
+    "profession": "Profession",
+    "date_recrutement": "Date de recrutement",
+    "contractType": "Type de contrat",
+    "retirement": "Retraité",
+    "retraitDate": "Date de retraite",
+    "activityDomain": "Secteur d’activité",
+    "public": "publique",
+    "private": "privé",
+    "not_concerned": "non concerné",
+    "netSalaryRENA": "Pension de retraite",
+    "employer": "Employeur",
+    "monthlySalaryretrait": "Montant mensuel",
+    "salary": "Salaire net",
+    "employerAddress": "Adresse Employeur",
+    "professionalPhone": "Tél professionnel",
+    "employerWilaya": "Wilaya Employeur",
+    "date_radiation": "Date de radiation",
+    "EMPLOYEE": "Employé",
+    "RETRIED": "Retraité",
+    "MILITARY": "Militaire",
+    "MILITARY_RETIRED": "Retraité militaire",
+    "DZD": " DZD"
+  },
+  "financial_sit_title": "Situation financière",
+  "fs": {
+    "accountType": "Type de compte",
+    "accountNumberCCP": "Numéro de compte CCP",
+    "accountKey": "Clé",
+    "accountNumber": "Numéro de compte"
+  }
+}

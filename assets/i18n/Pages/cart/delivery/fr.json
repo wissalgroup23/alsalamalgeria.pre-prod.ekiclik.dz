@@ -1,0 +1,13 @@
+{
+  "pos_title" : "POINT DE VENTE",
+  "pos_choice": "Choix du point de vente",
+  "phone_paragraph": "Après avoir saisie votre numéro de téléphone, \n choisissez le point de vente le plus proche de vous pour récupérer votre commande",
+  "phone_input": "Téléphone",
+  "phone_error_msg1": "Ce champ est obligatoire",
+  "phone_error_msg2": "Veuillez entrer un numéro  valide",
+  "pos_input": "Point de vente",
+  "wilaya": "Wilaya",
+  "commune": "Commune",
+  "pos_address": "Adresse du point de vente"
+
+}

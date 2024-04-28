@@ -1,0 +1,36 @@
+{
+  "main_title": "CHOISISSEZ UNE MÉTHODE POUR NOUS FAIRE PARVENIR VOTRE DOSSIER PHYSIQUE (PAPIER)",
+  "sub_title_one": "Veuillez préparer votre dossier physique (papier) précédemment scanner avant de ",
+  "sub_title_two": "l'expédier selon l'une des méthodes suivante que vous aurez choisis.",
+  "last-step-badge": "GRATUIT",
+  "ek_pos": {
+    "point_of_sale": "Point de vente EkiClik",
+    "point_of_sale_desc_one": "Sélectionnez un de nos point de vente pour déposer ",
+    "point_of_sale_desc_two": "vous même votre dossier physique (papier)",
+    "chose_a_pos": "Sélectionnez un point de vente"
+  },
+  "personal_info": {
+    "wilaya": "Wilaya:",
+    "commune": "Commune:",
+    "address": "Adresse:",
+    "phone_number": "Téléphone:",
+    "agency_address" : "Adresse de l'agence:"
+  },
+  "sale_point": {
+    "yalidine_sale_point": "Point de relais Yalidine",
+    "yalidine_sale_point_desc_one": "Sélectionnez un des point de relais de notre partenaire ",
+    "yalidine_sale_point_desc_two": "Yalidine pour déposer gratuitement par vous même votre dossier physique (papier)",
+    "chose_wilaya": "Sélectionnez une wilaya",
+    "enter_valid_wilaya": "Veuillez entrer une wilaya valide"
+  },
+  "home_delivery": {
+    "yalidine_home_delivery": "Ramassage a domicile (par Yalidine)",
+    "yalidine_home_delivery_desc_one": "Remettez votre dossier physique (papier) a notre partenaire Yaliddine (gratuitement)",
+    "default_delivery_address": "Adresse de livraison par défaut",
+    "chose_delivery_address": "Sélectionnez votre adresse de livraison",
+    "add_new_delivery_address": "Ajouter une nouvelle adresse de livraison",
+    "add_delivery_address_btn": "Ajouter une adresse de livraison"
+  }
+}
+
+

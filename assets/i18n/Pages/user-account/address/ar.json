@@ -1,0 +1,22 @@
+{
+  "address": "أضف عنوانا",
+  "follow-my-order-adr": "مواصلة طلبيتي",
+  "nv_address" : "عنوان التسليم الجديد",
+  "address_livraison": "عنوان التسليم",
+  "Carnet_adr" : "دفتر العناوين",
+  "adr_menu": {
+    "mon_compte": "حسابي",
+    "mon_compte_perso": "حسابي الشخصي",
+    "historique_cmd": "تاريخ الطلبيات"
+  },
+  "adr" : {
+    "contact": "الاتصال",
+    "telephone": "رقم الهاتف",
+    "Adresse": "العنوان",
+    "Complément_adr": "العنوان الافتراضي",
+    "default_adr": "العنوان الافتراضي",
+    "Ville": "الولاية",
+    "modifier_btn": "تعديل"
+  }
+
+}

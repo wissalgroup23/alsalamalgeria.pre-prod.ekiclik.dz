@@ -1,0 +1,87 @@
+{
+  "affichage_des_informations": {
+    "title": "الإسترجاع التلقائي للمعلومات",
+    "description" :
+    {
+      "desc1" : "تم استخراج البيانات من الوثائق الخاصة بك، يرجى التحقق منها بعناية قبل المتابعة،",
+      "desc2" : "وفي حالة وجود أخطاء أو مشاكل، يُرجى النقر على زر خدمة الشكاوي للتواصل معنا."
+    }
+
+  },
+  "personal_sit_title": "الوضع الشخصي",
+  "ps": {
+    "family_sit": "الحالة العائلية",
+    "inscription_level": "المستوى التعليمي",
+    "LESS_THAN_HIGH_SCHOOL": "أقل من المرحلة الثانوية",
+    "SECONDARY_LEVEL": "المرحلة الثانوية",
+    "BACHELOR": "بكالوريا",
+    "UNIVERSITY": "جامعي",
+    "child_in_charge":"الأطفال المعالين",
+    "others": "الأشخاص المعالين الآخرين",
+    "habitat_type": "نوع المسكن",
+    "WITH_PARENTS": "مع الوالدين",
+    "OWNER": "مالك",
+    "LEASE": "كراء",
+    "FUNCTIONAL_ACCOMMODATION": "سكن عمل",
+    "postal_code": "الرمز البريدي",
+    "step03_adr": "العنوان",
+    "step03_commune": "البلدية",
+    "SINGLE": "عازب",
+    "MARRIED": "متزوج",
+    "DIVORCE": "مطلق",
+    "WIDOWER": "أرمل"},
+  "personal_infos_title": "معلومات شخصية",
+  "pi": {
+    "name_in_latin" : "الاسم باللاتينية",
+    "last_name_in_latin": "اللقب باللاتينية",
+    "name_in_arabic" : "الإسم",
+    "lastname_in_arabic": "اللقب",
+    "mother_name": "اسم الأم",
+    "mother_last_name": "لقب الأم",
+    "father_name": "اسم الأب",
+    "step03_birthDate": "تاريخ الميلاد",
+    "step03_birthPlace": "مكان الميلاد",
+    "identity_piece": "وثيقة الهوية",
+    "id_card":"بطاقة التعريف الوطنية",
+    "idCardNumber": "رقم وثيقة الهوية",
+    "deliveryDate": "تاريخ إصدار وثيقة الهوية",
+    "validationDate": "تاريخ انتهاء وثيقة الهوية",
+    "deliveryDaira": "دائرة إصدار وثيقة الهوية",
+    "nationalIdNumber": "رقم التعريف الوطني",
+    "socialSecurityNumber": "رقم الضمان الاجتماعي",
+    "actOfBrithNumber": "رقم شهادة الميلاد"
+  },
+  "professional_sit_title": "الوضعية المهنية",
+  "pro_s": {
+    "sitProf": "الفئة المهنية",
+    "profession": "المهنة",
+    "date_recrutement": "تاريخ التوظيف",
+    "contractType": "نوع عقد العمل",
+    "retirement": "تقاعد",
+    "retraitDate": "تاريخ التقاعد",
+    "activityDomain": "قطاع العمل",
+    "public": "عام",
+    "private": "خاص",
+    "not_concerned": "غير معني",
+    "netSalaryRENA": "راتب التقاعد",
+    "employer": "صاحب العمل",
+    "monthlySalaryretrait": "المبلغ الشهري",
+    "salary": "الراتب الصافي",
+    "employerAddress": "عنوان صاحب العمل",
+    "professionalPhone": "رقم هاتف العمل",
+    "employerWilaya": "ولاية صاحب العمل",
+    "date_radiation": "تاريخ إلغاء التسجيل",
+    "EMPLOYEE": "موظف",
+    "RETRIED": "متقاعد",
+    "MILITARY": "عسكري",
+    "MILITARY_RETIRED": "متقاعد عسكري",
+    "DZD": " دج"
+  },
+  "financial_sit_title": "الوضع المالي",
+  "fs": {
+    "accountType": "نوع الحساب",
+    "accountNumberCCP": "رقم حساب ccp",
+    "accountKey": "المفتاح",
+    "accountNumber": "رقم الحساب"
+  }
+}

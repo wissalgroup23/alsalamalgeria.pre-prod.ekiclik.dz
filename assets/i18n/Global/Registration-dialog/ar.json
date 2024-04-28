@@ -1,0 +1,18 @@
+{
+  "registration": {
+    "nom_input": "أدخل الاسم",
+    "prenom_input":"أدخل اللقب",
+    "prenom": "الاسم",
+    "nom": "اللقب",
+    "bienvenue": "مرحبا",
+    "ACCOUNT_NOT_ACTIVATED": "أدخل كلمة المرور للمتابعة",
+    "ACCOUNT_EXIST": "عنوان البريد الإلكتروني  موجود بالفعل!",
+    "mail_confirmation": "تم إرسال البريد الإلكتروني للتأكيد!",
+    "accept": "أوافق ",
+    "condition": " على الشروط العامة وشروط السرية",
+    "caractere_min": "الحد الأدنى من الأحرف ",
+    "snackbar_reg_mail": "تم إرسال رسالة تأكيد إليك",
+    "reg_server_msg": "حدث خطأ !",
+    "incorrect_mail_input": " يرجى إدخال بريد إلكتروني صحيح"
+  }
+}

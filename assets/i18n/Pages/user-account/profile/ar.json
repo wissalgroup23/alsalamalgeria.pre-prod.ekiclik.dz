@@ -1,0 +1,25 @@
+{
+  "profile": "ملفي الشخصي",
+  "modify": "تغيير",
+  "identity": "الهوية",
+  "name": "الاسم واللقب",
+  "phone": "الهاتف",
+  "connexion_infos": {
+    "title": "معلومات تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة السر"
+  },
+  "personnal_infos": {
+    "title": "المعلومات الشخصية",
+    "id_card": "بطاقة التعريف الوطنية",
+    "id_card_number": "رقم بطاقة التعريف الوطنية",
+    "delivery_date": "تاريخ الإصدار",
+    "expiration_date": "تاريخ انتهاء الصلاحية",
+    "delivery_daira": "دائرة إصدار وثيقة الهوية",
+    "national_id_number": "رقم التعريف الوطني",
+    "social_security_number": "رقم الضمان الاجتماعي",
+    "birth_certificate_number": "رقم شهادة الميلاد",
+    "birth_date": "تاريخ الميلاد",
+    "birth_place": "مكان الميلاد"
+  }
+}

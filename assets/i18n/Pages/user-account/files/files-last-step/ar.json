@@ -1,0 +1,34 @@
+{
+  "main_title": "يرجى اختيار طريقة لإرسال الملف الورقي إلينا.",
+  "sub_title_one": "يرجى تجهيز الملف الورقي  الذي تم مسحه مسبقًا ",
+  "sub_title_two": " قبل إرساله وفقًا لإحدى الطرق التالية التي اخترتها.",
+  "last-step-badge": "مجاني",
+  "ek_pos": {
+    "point_of_sale": "نقطة البيع إكيكليك",
+    "point_of_sale_desc_one": "اختر إحدى نقاط البيع لدينا لتوصيل",
+    "point_of_sale_desc_two": "الملف الورقي الخاص بك",
+    "chose_a_pos" : "اختر نقطة البيع"
+  },
+  "personal_info": {
+    "wilaya": "الولاية:",
+    "commune": "البلدية:",
+    "address": "العنوان:",
+    "phone_number": "الهاتف:",
+    "agency_address" : "عنوان الوكالة:"
+  },
+  "sale_point": {
+    "yalidine_sale_point": "نقطة تسليم ياليدين",
+    "yalidine_sale_point_desc_one": "اختر إحدى نقاط البيع الخاصة بشريكنا ",
+    "yalidine_sale_point_desc_two": "يالدين لتوصيل  ملفك الورقي مجانًا بنفسك",
+    "chose_wilaya" : "اختر الولاية",
+    "enter_valid_wilaya": "ادخل اسم الولاية بشكل صحيح"
+  },
+  "home_delivery": {
+    "yalidine_home_delivery": "استلام منزلي بواسطة ياليدين",
+    "yalidine_home_delivery_desc_one": "أرسل ملفك الورقي إلى شريكنا يالدين (مجاني)",
+    "default_delivery_address": "العنوان الرئيسي الخاص بك",
+    "chose_delivery_address" : "اختر عنوان التوصيل الخاص بك",
+    "add_new_delivery_address": "اضافة عنوان توصيل جديد",
+    "add_delivery_address_btn": "اضف عنوان توصيل"
+  }
+}

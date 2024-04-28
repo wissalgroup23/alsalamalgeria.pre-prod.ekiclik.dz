@@ -1,0 +1,31 @@
+{
+  "dir": "ltr",
+  "header": {
+    "call": "Call Center",
+    "ServiceCommercial": "Service commercial",
+    "loginTitle11": "Se connecter",
+    "search": "Chercher un produit, une référence, une marque ...",
+    "DZD": "DZD",
+    "cartHolder": "Panier",
+    "ProfileHolder": "Profile",
+    "monCompte": "Mon Compte",
+    "Documents": "Documents",
+    "Commandes": "Commandes",
+    "Adresses": "Adresses",
+    "SeDéconnecter": "Se déconnecter",
+    "other_phone_number": "Nous sommes aussi joignables sur ",
+    "dz-per-month": "DZD / Mois",
+    "popUp": {
+      "loginTitle": "Connectez-vous à votre espace privé",
+      "ACCOUNT_NOT_EXIST": "Ce compte n'existe pas",
+      "ACCOUNT_NOT_ACTIVATED": "Votre compte n'est pas activé",
+      "ACCOUNT_BLOCKED": "Votre compte est bloqué! Contactez-nous pour plus d'informations",
+      "INCORRECT_CREDENTIALS": "Email ou mot de passe incorrect",
+      "CONNECT_TO_PRIVATE_SPACE": "Connectez-vous à votre espace privé",
+      "snack_mail_exist": "Le mail est déjà  associé avec un compte EKICLICK. Merci de ré-utiliser la même méthode de connexion pour retrouver votre espace."
+    }
+
+
+  }
+
+}

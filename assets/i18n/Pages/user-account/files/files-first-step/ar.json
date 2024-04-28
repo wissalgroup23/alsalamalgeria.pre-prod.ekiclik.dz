@@ -1,0 +1,18 @@
+{
+  "socio_title": "الوضع الاجتماعي والمهني",
+  "socio_desc" : "يرجى تحديد وضعك الاجتماعي والمهني",
+  "situation_familiale" : "الحالة العائلية",
+  "categorie_professionnelle" : "الصنف المهني",
+  "type_de_contrat" : "نوع عقد العمل",
+  "SINGLE": "أعزب",
+  "MARRIED": "متزوج",
+  "DIVORCE": "مطلق",
+  "WIDOWER": "أرمل",
+  "EMPLOYEE": "موظف",
+  "RETRIED": "متقاعد",
+  "RETIREMENT": "متقاعد",
+  "CDD": "عقد عمل محدد المدة",
+  "CDI": "عقد عمل دائم",
+  "OTHER": "آخر",
+  "requis": "     حقل البيانات مطلوب"
+}

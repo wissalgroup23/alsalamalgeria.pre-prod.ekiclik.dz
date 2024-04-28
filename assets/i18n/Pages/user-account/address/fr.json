@@ -1,0 +1,22 @@
+{
+  "address": "AJOUTER UNE ADDRESS",
+  "nv_address" : "Nouvelle adresse de livraison",
+  "follow-my-order-adr": "Poursuivre ma commande ",
+  "address_livraison": "Adresse de Livraison ",
+  "Carnet_adr" : "Carnet d'adresses",
+  "adr_menu": {
+    "mon_compte": "Mon compte",
+    "mon_compte_perso": "Mon compte personnel",
+    "historique_cmd": "historique des commandes"
+  },
+  "adr" : {
+    "contact": "Contact",
+    "telephone": "Téléphone",
+    "Adresse": "Adresse",
+    "Complément_adr": "Complément d'adresse",
+    "default_adr": "Adresse par défaut",
+    "Ville": "Ville",
+    "modifier_btn": "modifier"
+
+  }
+}

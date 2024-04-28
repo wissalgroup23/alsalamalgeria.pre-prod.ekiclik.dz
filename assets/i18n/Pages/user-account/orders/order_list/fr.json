@@ -1,0 +1,15 @@
+{
+  "order_list": {
+    "date": "DATE",
+    "MONTANT_TOTAL": "MONTANT TOTAL",
+    "status": "STATUT",
+    "num_dossier": "N° DOSSIER",
+    "DetailsOrder":"Détails",
+    "search_page": "Aller à La page",
+    "no_order": "Aucune commande trouvée",
+    "select_date": "Séléctionner un intervalle",
+    "Date_debut": "Date de debut",
+    "Date_fin": "date de fin",
+    "order_page": "Commandes par page"
+  }
+}

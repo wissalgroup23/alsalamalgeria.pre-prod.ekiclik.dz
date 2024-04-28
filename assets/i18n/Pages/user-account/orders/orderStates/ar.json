@@ -1,0 +1,8 @@
+{
+  "EK_ORDER_CREATED": "الطلبية قيد الإنشاء",
+  "EK_ORDER_PENDING": "الطلبية قيد المعالجة",
+  "EK_ORDER_IN_PREPARATION": "الطلبية قيد التحضير",
+  "EK_ORDER_IN_DELIVERY": "الطلبية في طور التوصيل",
+  "EK_ORDER_DELIVERED": "إستلام العميل للطلبية",
+  "EK_CLIENT_ORDER_CANCELED": "الطلبية ملغاة"
+}

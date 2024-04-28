@@ -1,0 +1,14 @@
+{
+
+  "edit_infos" : "Modifier l'identité",
+  "civility" : "Civilité",
+  "first_name": "Nom",
+  "last_name": "Prénom",
+  "sb_infos_msg": "Informations modifiées",
+  "phone_err_msg1": "Vous devez mentionner votre Numéro de téléphone",
+  "phone_err_msg2": "Veuillez entrer un numéro valide",
+  "Mr" : "Mr",
+  "Mme" : "Mme",
+  "correct_first_name" : "Le nom doit contenir au moins 2 caractères.",
+  "correct_last_name" : "Le prénom doit contenir au moins 2 caractères."
+}

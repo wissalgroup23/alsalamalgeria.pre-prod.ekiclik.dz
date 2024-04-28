@@ -1,0 +1,13 @@
+{
+  "edit_password" : "تغيير كلمة السر",
+  "set_password" : "أدخل كلمة السر الخاصة بك",
+  "current_password" : "كلمة السر الحالية",
+  "set_new_password" : "أدخل كلمة السر الجديدة",
+  "new_password" : "كلمة السرالجديدة",
+  "min_caracteres" : "أحرف كحد أدنى",
+  "cancel" : "ألغي",
+  "change" : "تغيير",
+  "sb_pwd_msg": "تم تغيير كلمة السر",
+  "incorrect_mdp": "كلمة المرور غير صحيحة",
+  "new_mdp": "أدخل كلمة المرور"
+}

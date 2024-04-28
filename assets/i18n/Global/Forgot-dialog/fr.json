@@ -1,0 +1,19 @@
+{
+  "forgot": {
+    "mail_inscription": "Entrer votre mail d'inscription",
+    "recuperer_mdp_button": "RÉCUPÉRER MON MOT DE PASSE",
+    "mail_input": "Entrer un email",
+    "snack_no_compte":"Aucun compte ne semble associé à cette adresse e-mail. Vérifiez que l’adresse email saisie est bien la bonne",
+    "snack_active_compte": "Veillez activer votre compte en cliquant sur \"CONFIRMER MON EMAIL\" sur l'email reçu !"
+  },
+  "reset": {
+    "title": "Réinitialiser votre mot de passe",
+    "errorMessage": "Les valeurs entrées ne correspondent pas",
+    "mdp_valide": "Entrer un mot de passe valide",
+    "mdp_confirmed": "Confirmer le mot de passe",
+    "mdp_updated": "Mot de passe a été modifié"
+
+
+  }
+
+}

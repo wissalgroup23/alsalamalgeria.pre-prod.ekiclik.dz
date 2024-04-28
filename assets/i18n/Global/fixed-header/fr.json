@@ -1,0 +1,8 @@
+{
+"fh_add_to_cart": "AJOUTER AU PANIER",
+  "fh_currency" : "DZD",
+  "product_error_msg": "Ce produit existe déjà dans votre panier",
+  "fh_server_error_msg": "Une erreur est survenue",
+  "product2_error_msg": "Le produit existe déjà",
+  "fav_message": "Le produit a été ajouté à vos favoris"
+}

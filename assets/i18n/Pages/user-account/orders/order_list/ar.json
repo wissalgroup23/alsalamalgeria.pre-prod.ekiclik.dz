@@ -1,0 +1,18 @@
+{
+  "order_list": {
+    "date": "تاريخ",
+    "MONTANT_TOTAL": "المبلغ الإجمالي",
+    "status": "الحالة",
+    "num_dossier": "رقم الملف",
+    "DetailsOrder":"تفاصيل",
+    "order_page": "الطلبات لكل صفحة",
+    "search_page": "انتقل إلى صفحة",
+    "no_order": " لم يتم العثور على أية طلبات",
+    "select_date": "حدد الفاصل الزمني",
+    "Date_debut": "تاريخ البدء",
+    "Date_fin": "تاريخ النهاية"
+
+
+
+  }
+}

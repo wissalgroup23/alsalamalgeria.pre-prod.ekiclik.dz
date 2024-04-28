@@ -1,0 +1,18 @@
+{
+  "registration": {
+    "nom_input": "Entrer un nom",
+    "prenom_input":"Entrer un prénom",
+    "prenom": "Prénom",
+    "nom": "Nom",
+    "bienvenue": "Bienvenue",
+    "ACCOUNT_NOT_ACTIVATED": "Entrer un mot de passe pour continuer",
+    "ACCOUNT_EXIST": "Adresse mail déjà existante !",
+    "mail_confirmation": "email envoyé pour confirmer!",
+    "snackbar_reg_mail": "un mail de de confirmation vous a été envoyé",
+    "reg_server_msg": "Une erreur est survenue !",
+    "accept": "J’accepte",
+    "condition": "les conditions générales et les termes de confidentialité",
+    "caractere_min": "caractères minimum ",
+    "incorrect_mail_input": "Entrer un email correct"
+  }
+}

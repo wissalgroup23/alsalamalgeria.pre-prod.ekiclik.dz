@@ -1,0 +1,16 @@
+{
+  "EK_FOLDER_CREATED" : "الملف  قيد الإنشاء",
+  "EK_FOLDER_IN_PROGRESS" : "الملف قيد المعالجة إكيكليك",
+  "EK_FOLDER_RESERVE" : "الملف قيد التحفظ إكيكليك",
+  "EK_GUARTENTEES_PENDING_SIGNATURE" : "ضمانات قيد الإمضاء",
+  "EK_GUARTENTEES_SIGNED_IN_PROGRESS" : "ضمانات ممضاة قيد المصادقة إكيكليك",
+  "EK_BANK_RESERVE" : "الملف قيد التحفظ من البنك",
+  "BANK_NOTIFICATION" : "إشعارالبنك بالقبول",
+  "EK_BANK_REFUSED" : "الملف مرفوض من البنك",
+  "EK_FOLDER_REFUSED" : "الملف مرفوض إكيكليك",
+  "CENTRAL_RISK_CONSULTATION" : "الإطلاع على مركزية المخاطر",
+  "EK_ADMIN_FOLDER_CANCELED" : "تم إلغاء الملف من قبل المسؤول",
+  "EK_CONTROL_BEFORE_GUARANTEES_PRINTING" : "مراجعة الضمانات قبل الطباعة",
+  "CLIENT_CENTRAL_RISK_NOTIFICATION" : "إخطار العميل بالمخاطر المركزية",
+  "EK_BANK_IN_PROGRESS" : "إخطار مسبق للبنك"
+}

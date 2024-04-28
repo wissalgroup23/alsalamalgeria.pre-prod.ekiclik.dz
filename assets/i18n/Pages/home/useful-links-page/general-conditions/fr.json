@@ -1,0 +1,187 @@
+{
+  "preamble": {
+    "title": "Préambule",
+    "content": {
+      "paragraph1": "Attendu que EkiClik, est une Fintech Algérienne, dont sa mission est la digitalisation et la fourniture de prestations pour les Institutions Financières...",
+      "paragraph2": "Attendu qu’EkiClik est une Entreprise Algérienne ayant pour mission principale l’innovation orientée vers la digitalisation, le développement de l’e-paiement, le e-financement et le e-commerce en Algérie via une plateforme digitale en conformité avec les dispositions de la loi 18-05 du 10 mai 2018 relative au commerce électronique ;",
+      "paragraph3": "Attendu qu‘AL SALAM BANK ALGERIA est une banque habilitée, conformément à l’article 70 de l’Ordonnance N° 03-11 du 26 Aout 2003 relative à la monnaie et au Crédit, à effectuer à titre de profession habituelle toutes les opérations de Banque décrites aux articles 66 à 68 de ladite Ordonnance ;Attendu qu‘Al Salam Bank ALGERIA offre des services conformes aux préceptes de la Charia ;",
+      "paragraph4": "Attendu que « EkiClik » dispose d’une plateforme e-commerce qui permet aux e-consommateurs, personnes physiques, salariés ou exerçants une profession libérale, d’acquérir, en ligne et via le service d’Al Salam Bank ALGERIA « E-TAYSSIR », des équipements ménagers, des meubles de maison et des véhicules, fabriqués en Algérie, et qui pourraient faire l’objet de financements à la consommation, en conformité avec les préceptes de la Charia et selon les termes et conditions définies ci-dessous."
+    }
+  },
+  "definitions": {
+    "title": "Définitions",
+    "content": {
+      "definition1": "« Application/Applications/site web » désigne l’application et/ou Sites web d’EkiClik développée par la société EkiCLik, disponible sur App Store pour les utilisateurs IOS et Google Play pour les utilisateurs d’Android.",
+      "definition2": "« Espace privée » désigne le compte qui doit être créé pour pouvoir accéder aux services proposés par l’application et/ou site web.",
+      "definition3": "« Conditions » désigne les présentes conditions générales d’utilisation.",
+      "definition4": "« E-consommateur » désigne toute personne physique ou morale qui acquiert, à titre onéreux ou gratuit, un bien ou un service par le biais de l’Application et/ou plateforme de EkiClik.",
+      "definition5": "« E-Fournisseur » désigne toute personne physique ou morale qui commercialise ou propose la fourniture des biens ou des services par voie de communications électroniques.",
+      "definition6": "« Banque » désigne la banque « Al Salam Bank ALGERIA » qui assure aux E-consommateurs via le service « EkiClik » et « E-TAYSSIR » le financement conforme à la Charia des produits Made in Bladi de l’E-fournisseur achetés en ligne.",
+      "definition7": "« Intervenant auprès de la plateforme « EkiClik » désigne toute intervenant dans le cadre de circuits de distribution des biens et de service via des plateformes numériques.",
+      "definition8": "« Contenu et documents de l’Utilisateur » désigne les documents personnels, professionnels les contenus et informations textuels, audio et/ou visuels, communiqués lors de votre inscription, y compris les commentaires et les retours d’information relatifs aux Services ou aux Services de Tiers, ainsi que les contenus et informations communiqués lors de demandes d’assistance et à l’occasion de la participation à des jeux-concours et à des opérations promotionnelles.",
+      "definition9": "« Services PDVA » désigne les services fournis par les points de ventes agrées par EkiClik, à savoir la collecte des dossiers clients, la livraison, ces services sont mis à la disposition des E-consommateurs par l’intermédiaire de l’applications et / ou site web EkiClik.",
+      "definition10": "« Site Internet » désigne l’interface dynamique accessible aux adresses : tout autre site Internet exploité par EkiClik et mis à disposition dans le cadre des Services.",
+      "definition11": "« Site Internet & application Al Salam Bank ALGERIA / EkiClik » désigne l’interface dynamique accessible aux adresses : https://alsalamalgeria.ekiclik.dz ou via application mobile téléchargeable et misent à la disposition des clients souhaitant bénéficier du financement fournis par Al Salam Bank ALGERIA pour l’acquisition des biens de consommation conforme à la Charia.",
+      "definition12": "« Tarifs & frais » désigne les prix applicables aux Services qui vous seront expressément communiqués via l’Application et/ou Site Internet au moment de la validation de la commande correspondante.",
+      "definition13": "« E-paiement ou Moyen de paiement électronique » désigne tout instrument de paiement, autorisé conformément à la législation en vigueur, permettant à son titulaire d’effectuer des paiements de proximité ou à distance à travers un système électronique.",
+      "definition14": "« Commande » désigne un contrat électronique via lequel le E-Consommateur s’engage à acheter les biens de consommation misent en vente sur la plateforme EkiClik à travers un financement fournit par la banque.",
+      "definition15": "« Reçu de paiement électronique » désigne un document électronique affiché en version imprimable et remis par voie électronique au client à l’issue de chaque transaction de paiement effectuée en ligne via carte monétique dans le cadre des services fournis par EkiClik, le dit reçu contient une série d’informations relatives à la transaction."
+    },
+
+  "objectAndContractualRelationship": {
+    "title": "Objet et relation contractuelle :",
+    "content": {
+      "paragraph1": "Les présentes conditions générales ont pour objet de définir les modalités et conditions d’utilisation des services proposés sur le site et/ou l'application, ainsi que les droits et obligations des parties dans ce cadre.",
+      "paragraph2": "L’accès et l’utilisation des Services sont soumis aux présentes Conditions, que le E-consommateur doit lire et accepter avant d’accéder aux Services et de les utiliser.",
+      "paragraph3": "L’acceptation des présentes conditions établit une relation contractuelle entre le E-consommateur et EkiClik.",
+      "paragraph4": "EkiClik se réserve le droit de modifier ces conditions à tout moment. Les conditions modifiées seront communiquées par tous les moyens mis à disposition.",
+      "paragraph5": "En accédant au service Digital EkiClik ou en les utilisant, le E-Consommateur accepte d’être lié par les conditions telles que modifiées au moment où il utilise les Services. Le E-consommateur reconnaît qu’il demeure libre à tout moment d’utiliser ou non les Services.",
+      "paragraph6": "EkiClik propose un service Digital par lequel les E-consommateurs salariés ou de profession libérale peuvent bénéficier des services proposés sur la plateforme, à savoir l’achat en ligne 24h/24 et 7J/7 des biens de consommation (Made in Bladi) avec un financement conforme à la Charia et/ou service à distance présenté sur l’application et/ou le site web, et bénéficier du ramassage de dossier et de son traitement ainsi que de la livraison des produits à la destination de leur choix.",
+      "paragraph7": "Le E-consommateur a également la possibilité de bénéficier des mêmes services par le biais de notre réseau PDVA. Il pourra choisir les produits souhaités, le mode de livraison, le dépôt de son dossier et suivre son traitement en ligne via son compte qui lui sera créé lors de sa présentation au niveau du PDVA.",
+      "paragraph8": "Dans ce cadre, il est rappelé que EkiClik intervient comme un E-fournisseur de produit et services qui offre via sa plateforme digitale aux E-consommateurs l’achat de sa gamme de produits et services digitaux par le biais d’un financement bancaire conforme à la Charia.",
+      "paragraph9": "Les présentes conditions générales sont notamment accessibles et imprimables à tout moment par un lien direct en bas de la page d’accueil du site et/ou dans l’application « Conditions Générales ».",
+      "paragraph10": "Elles peuvent être complétées, le cas échéant, par des conditions d’utilisation particulières à certains services, exemple : les conditions régissant un événement particulier ou une activité ou promotion particulière, et lesdites conditions complémentaires seront communiquées dans l’Application et/ou le Site Internet, dans le cadre des Services concernés. Ces conditions complémentaires s’ajouteront aux présentes et seront réputées faire partie des Conditions pour les besoins des Services concernés, une fois que le E-consommateur les accepte. En cas de contradiction, les conditions particulières prévalent sur ces conditions générales."
+    }
+  }
+},
+  "accessToAppAndService": {
+    "title": "Accès à l’application et au service :",
+    "content": {
+      "paragraph1": "Le service est accessible, sous réserve des restrictions prévues sur le site et l’application EkiClik.",
+      "paragraph2": "À toute personne physique et morale disposant de la pleine capacité juridique conformément à la loi en vigueur en Algérie pour s’engager au titre des présentes conditions générales."
+    }
+  },
+  "acceptanceOfTerms": {
+    "title": "Acceptation des conditions générales :",
+    "content": {
+      "paragraph1": "L’acceptation des présentes conditions générales est matérialisée en cliquant sur « continuer l’inscription » de l’application EkiClik et / ou site web. Cette acceptation ne peut être que pleine et entière. Toute adhésion sous réserve est considérée comme nulle et non avenue.",
+      "paragraph2": "Les E-consommateurs prennent acte que l’utilisation de l’application et/ou le site web EkiClik ne doit être que pour le service prévu à cet effet cité en objet.",
+      "paragraph3": "L’utilisation de l’application et/ou site web pour un autre motif que celui cité en objet est strictement interdit et peut exposer son auteur, à des poursuites judiciaires, sans préjudice des dommages et intérêts pour préjudice causé."
+    }
+  },
+  "registrationOnSiteOrApp": {
+    "title": "Inscription sur le site et / ou l’application :",
+    "content": {
+      "paragraph1": "L’accès au service nécessite que le E-consommateur s’inscrive au site et/ou l’application EkiClik, en remplissant le formulaire prévu à cet effet.",
+      "paragraph2": "Le E-consommateur doit fournir l’ensemble des informations marquées comme obligatoires (Nom, prénom, E-mail et son numéro de téléphone) Toute inscription incomplète ne sera pas validée.",
+      "paragraph3": "Le E-consommateur prend acte que pour la création de son profil, EkiClik sera amené à communiquer son numéro de téléphone et son adresse Email à un de nos points de vente agrée pour authentification.",
+      "paragraph4": "Après la vérification de l’adresse email et du numéro de téléphone, le profil du E-consommateur est automatiquement créé, (Ci-après : Le « profil »), lui donnant ainsi accès à un espace privé (ci-après : « l’espace privé ») qui lui permet de gérer son utilisation du service, selon la forme et les moyens techniques que la société juge les plus appropriés pour rendre le dit Service."
+    }
+  },
+  "descriptionOfEkiClikDigitalService": {
+    "title": "Description du Service Digital EkiClik:",
+    "content": {
+      "paragraph1": "7.1. Obligations de l’E-consommateur",
+      "subparagraph1": "L’E-consommateur propriétaire du dossier de financement doit être obligatoirement majeur.",
+      "subparagraph2": "La publication d’informations à caractère diffamatoire, politique, discriminatoire ou illégal, est expressément interdite. Aussi, il est fait obligation à l’E-consommateur de :",
+      "sub-subparagraph1": "ne pas utiliser le site pour des demandes de financement spéculatives, fausses ou frauduleuses ;",
+      "sub-subparagraph2": "fournir des informations exactes. Il sera tenu responsable de toute information erronée, incomplète ou obsolète ;",
+      "sub-subparagraph3": "s’assurer de la certitude des informations saisies. En cas de contradiction entre les informations saisies et le dossier fourni, le dossier sera rejeté, ou un dossier complémentaire sera demandé;",
+      "subparagraph3": "L’E-consommateur s’engage à payer les frais liés au service EkiCLik tel que les frais de service et les frais de livraison de sa commande, EkiClik peut offrir une gratuité des frais en guise bonus de bienvenue.",
+      "paragraph2": "7.2. Pré-simulation",
+      "subparagraph01": "Avant de procéder à l’achat en ligne dans le cadre du service digital EkiClik, l’E-consommateur doit faire une pré-simulation de son crédit à la consommation conforme Charia. Cette opération lui permettre de calculer le montant du financement autorisé par la banque sur la base de son salaire et son âge et ce, pour arrêter le montant max de son panier relatif à ses capacités d’endettement en ligne (le montant max autorisé de son panier)."
+    }
+  },
+  "limitations": {
+    "title": "7.3. Limitations",
+    "content": "Dans le cadre du service digital EkiCliK, et conformément aux conditions d’Al Salam Bank ALGERIA. Le montant min des achats en ligne avec un crédit à la consommation conforme à la Charia est estimé à 50.000 DA en T.T.C et Le montant max des achats en ligne avec un crédit à la consommation conforme Charia est estimé à 1.000.000 DA en T.T.C pour une périodicité allant de 12 jusqu’à 60 mois. L’E-consommateur peut cumuler plusieurs commandes séparées dans la limite de sa capacité de remboursement prévue par la réglementation en vigueur."
+  },
+  "simulationEkiClik": {
+    "title": "7.4. Simulation EkiClik",
+    "content": "Après la validation de son panier dans la limite du montant de financement calculé dans la pré-simulation, l’E-consommateur doit faire, sur le site du E-fournisseur, une simulation détaillée de son crédit à la consommation conforme Charia. Cette opération lui permettre de savoir les détails ci-après :",
+    "details": {
+      "amountToFinance": "Montant à financer",
+      "repaymentAmount": "Montant des remboursements",
+      "totalMarginAmount": "Montant total de la marge",
+      "totalVATAmount": "Montant total de la T.V.A.",
+      "repaymentDuration": "Durée de remboursement",
+      "hamichElJidiya": "Hamich el Jidiya (0,00 DZD) Ainsi que tous les frais liés au service EkiClik, à savoir :",
+      "FraisDossier": "Frais de timbre.",
+      "FraisRamassage": "Frais de ramassage à domicile du dossier (non remboursables).",
+      "FraisLivraison": "Frais de livraison à domicile des produits achetés en ligne dans le cadre du service",
+      "FraisService": "Frais de service <b>EkiClik</b> (non remboursables)."
+    }
+},
+  "formBank": {
+    "title": "7.5. Formulaire banque",
+    "content": "Après la validation de la simulation et de la commande, l’E-consommateur doit choisir le mode de ramassage ou dépôt de son dossier chez un de nos points de vente agrée le plus proche. Il procède à uploader ses pièces correctement pour que l’extraction s’exécute correctement. Il doit s’assurer d’uploader chaque pièce dans la case adéquate à cette dernière. Faute de quoi le client sera notifié via la plateforme qu’il doit s’assurer d’uploader les bons documents à nouveau."
+
+  },
+  "requestProcessing": {
+    "title": "7.6. Traitement de la demande",
+    "content": "À la suite de la validation de la demande de financement, l’E-consommateur reçoit une notification, instantanément sur site (Espace privé) et par e-mail, relative au traitement en cours de sa demande de financement dans le cadre du service digital EkiClik. L’E-consommateur reçoit aussi dans cette notification la liste des documents à fournir pour le dossier EkiClik. L’E-consommateur s’engage à fournir ce dossier dans un délai max de quatre (04) jours ouvrables à compter de la date du paiement des frais de ramassage. Au-delà de ce délai, la commande sera annulée."
+  },
+  "submissionAndCollection": {
+    "title": "7.7. Dépôt et/ou ramassage du dossier EkiClik",
+    "content": "Le client a le choix entre déposer son dossier au niveau de nos points de ventes agrées, comme il peut choisir l’option de ramassage à domicile après paiement des frais de ramassage, l’E-consommateur doit choisir une date (un rendez-vous) pour le ramassage à domicile de son dossier. La date de ramassage choisie par l’E-consommateur ne doit pas être au-delà de quatre (04) jours à compter de la date du paiement de ces frais. Au-delà de ce délai, la date choisie sera refusée automatiquement par le système du E-fournisseur."
+
+  },
+  "locationAndDateOfCollection": {
+    "title": "7.8. Lieu et date de ramassage du dossier EkiClik",
+    "content": "L’E-consommateur doit fournir sur le site une adresse exacte et correcte pour le ramassage de son dossier et qui doit être complet lors du passage des livreurs du E-fournisseur. L’E-consommateur s’engage à remettre le dossier EkiClik aux livreurs du E-fournisseur dans les lieux et la date fixés au préalable sur le site. Dans le cas contraire (une fausse adresse ou adresse incomplète, le dossier n’est pas complet lors du passage des livreurs, …), la commande sera annulée et/ou les frais d’un deuxième ramassage seront imposés."
+  },
+  "collectionFees": {
+    "title": "7.9. Frais de ramassage du dossier EkiClik",
+    "content": "Les frais de ramassage du dossier EkiClik sont à la charge du E-consommateur. Ces derniers ne sont pas remboursables et sont calculés sur la base du lieu de ramassage fourni par l’E-consommateur qui s’engage à les payer selon les modes de paiement disponibles dans le cadre du service EkiClik, à savoir :"
+    },
+  "notificationBankAgreement": {
+        "title": "7.11. Notification d'accord final de la banque",
+        "text": "Après l'étude et la validation du dossier EkiClik par la banque, le consommateur électronique sera notifié par e-mail et par SMS de l'accord final de cette dernière. Ces notifications contiennent un lien permettant au consommateur électronique de télécharger les garanties bancaires et de régler les frais suivants :",
+        "livraison":"Frais de livraison à domicile des produits achetés en ligne dans le cadre du service EkiClik.",
+        "service": "Frais de service EkiClik.",
+        "deadline":"Un délai de sept (07) jours à compter de la date de réception de l'accord final de la banque est accordé au consommateur électronique pour le paiement des frais susmentionnés. Au-delà de cette période, la commande sera annulée. La livraison à domicile des produits achetés en ligne dans le cadre de ce service nécessite obligatoirement le paiement des frais mentionnés."
+      },
+  "deliveryService": {
+    "title": "7.12. Livraison des produits achetés en ligne dans le cadre du service EkiClik",
+    "content":
+      {
+        "text": "Après le paiement des frais de service et des frais de livraison de la commande, les produits achetés en ligne dans le cadre du service EkiClik seront livrés à domicile ou au niveau de nos points de vente agréés au plus tard (7) jours calendaires à compter de la date de paiement par le consommateur électronique des frais de service et des frais de livraison pour les régions Est des Hauts plateaux et au plus tard sept (15) jours calendaires à compter de la date de paiement par le consommateur électronique des frais de service et des frais de livraison pour le reste des régions de l'Algérie hors Hauts plateaux et le sud de l'Algérie.",
+         "ulContent": "Le E-CONSOMMATEUR s’engage à accepter la livraison de sa commande par le E-FOURNISSEUR dans les lieux fixés au préalable 24h/24, 7j/7",
+         "ulContent1":"Dans le cas d'un éventuel retard dû à une force majeure et/ou une exception, le fournisseur électronique s'engage à informer le consommateur électronique, et ce dernier s'engage à accepter ce retard justifié.",
+         "ulContent2":"La présence du consommateur électronique est obligatoire au moment de la livraison. Ce dernier doit présenter sa pièce d'identité nationale pour permettre au livreur l'identification exacte, personnelle et physique, du consommateur électronique. Ce dernier s'engage à signer et apposer la mention manuscrite 'Lu et approuvé' et 'Accepté' en présence du livreur sur tout document du dossier engageant le consommateur électronique lors de la livraison.",
+         "ulContent3":"Tarification et frais relatifs au service digital EkiClik.",
+         "ulContent4": "La tarification et les frais relatifs au service digital EkiClik sont définis, arrêtés et affichés clairement sur le site ainsi que sur la simulation EkiClik. Cela permet au consommateur électronique, avant la validation de sa demande, d'être informé au préalable de la tarification des produits et des frais, à savoir :"
+  },
+  "digitalServiceFees": {
+      "fees1":"Montant à financer",
+      "fees2":"Hamich El Jidiya (0,00 DZD)",
+      "fees3":"Montant des remboursements",
+      "fees4":"Montant total de la marge",
+      "fees5":"Montant total de la T.V.A.",
+      "fees6":"Durée de remboursement"
+  },
+  "additionalFees": {
+    "additionalFees1":"Ainsi que tous les frais liés au dossier EkiClik, à savoir : Frais de timbre, Frais de ramassage à domicile du dossier EkiClik (non remboursables), Frais de livraison à domicile des produits commandés dans le cadre du service EkiClik (non remboursables).",
+    "additionalFees2":"Frais de service EkiClik (non remboursables)."
+
+  },
+  "consumerAssistance": {
+    "title": "Assistance à l'É-consommateur/utilisateur du service EkiClik :",
+    "content": "Pour une assistance particulière en rapport avec le service digital EkiClik, l'É-consommateur est invité à appeler notre Call Center ou à transmettre un e-mail, en fournissant les renseignements nécessaires au traitement de sa requête à l'adresse suivante :"
+  },
+  "complaints": {
+    "title": "Réclamations :",
+    "content": "Pour toute demande ou réclamation liée au service EkiClik sur notre site, veuillez nous contacter via appel. Pour tout autre type de réclamation, veuillez nous contacter via notre mail :"
+  },
+  "disputeResolution": {
+    "title": "Règlement des litiges",
+    "content": [
+      "En cas de différend(s) découlant de ces présentes conditions, les Parties s'engagent à rechercher, de bonne foi prioritairement, un règlement amiable du ou des différend(s). À défaut d'accord amiable, tout différend découlant du présent Contrat sera soumis à la compétence du Tribunal d’Alger."
+    ]
+  }
+},
+
+  "homePickup": {
+    "title": "7.10. Ramassage à domicile du dossier EkiClik",
+    "content": "Après le paiement des frais de ramassage, le livreur sera au R.D.V pour le ramassage du dossier EkiClik. La présence de l’E-consommateur/demandeur de service EkiClik est obligatoire au moment du ramassage. Ce dernier doit présenter sa pièce d’identité nationale pour permettre au livreur l’identification exacte, personnelle et physique, de l’E-consommateur. Ce dernier s’engage à signer et apposer la mention manuscrite « Lu et approuvé » et « Accepté » en présence du livreur sur tout document du dossier engageant l’E-consommateur, lors du ramassage."
+
+  }
+}
+
+
+
+
+
+
+
+

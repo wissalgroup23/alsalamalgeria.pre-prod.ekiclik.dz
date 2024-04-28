@@ -1,0 +1,11 @@
+{
+  "to_change": "À CHANGER",
+  "file_accepted": "Accepté",
+  "file_refused": "Rejeté",
+  "file_waiting": "En attente",
+  "open_file": "Ouvrir le document",
+  "drag": "GLISSER DÉPOSER",
+  "drag_msg01": "Votre fichier ici ou",
+  "drag_msg02": "parcourir",
+  "server_error_msg": "Connexion avec le serveur a échoué, veuillez réessayer à nouveau"
+}

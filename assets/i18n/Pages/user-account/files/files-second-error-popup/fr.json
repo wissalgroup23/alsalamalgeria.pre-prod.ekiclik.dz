@@ -1,0 +1,9 @@
+{
+  "error" : {
+    "title" : "Attention ! Erreurs dans vos documents - changement(s) nécessaire",
+    "description" : "Certaines informations n'ont pas pu être extraites, un ou plusieurs de vos documents sont introuvables ou doivent être changés. Cliquez sur \"Modifier\" pour voir les documents à changer, ou contactez le service réclamation pour plus d'informations."
+  },
+  "files_list" : "Liste des documents à changer:",
+  "call_us" : "Apellez-nous",
+  "modify" : "Modifier"
+}

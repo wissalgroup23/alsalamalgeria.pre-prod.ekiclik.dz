@@ -1,0 +1,19 @@
+{
+  "socio_title" : "SITUATION SOCIOPROFESSIONNELLE",
+  "socio_desc" : "Merci de sélectionner votre situation Socioprofessionnelle",
+  "situation_familiale" : "Situation familiale",
+  "categorie_professionnelle" : "Catégorie Professionnelle",
+  "type_de_contrat" : "Type de contrat",
+  "SINGLE": "Célibataire",
+  "MARRIED": "Marié",
+  "DIVORCE": "Divorcé",
+  "WIDOWER": "Veuf",
+  "EMPLOYEE": "Employé",
+  "RETIREMENT": "Retraité",
+  "RETRIED": "Retraité",
+  "requis": "        Ce champ est requis",
+  "CDD": "CDD",
+  "CDI": "CDI",
+  "OTHER": "Autres"
+
+}

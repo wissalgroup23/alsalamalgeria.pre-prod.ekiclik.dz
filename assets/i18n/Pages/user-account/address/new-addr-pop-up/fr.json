@@ -1,0 +1,15 @@
+{
+  "new_adr": {
+    "nom": "Nom",
+    "prenom": "Prénom",
+    "wilaya": "Wilaya",
+    "Commune": "Commune",
+    "ajouter":"Ajouter",
+    "adr_par_default": "  Adresse par défaut",
+    "err_wilaya": " Sélectionnez une wilaya valide",
+    "err_commune":" Sélectionnez une commune valide",
+    "add_adrs": "Entrer une adresse"
+  },
+  "sb_adr_added": "adresse ajoutée avec succès",
+  "sb_adr_default": "Ceci est votre adresse de livraison par défaut !"
+}

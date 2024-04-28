@@ -1,0 +1,17 @@
+{
+  "results" :  "résultats",
+  "result" : "résultat",
+  "order_by": "Trier par",
+  "product_status": "Statuts produits",
+  "price_asc" : "Prix:ascendant",
+  "price_desc" : "Prix:descendant",
+  "filter_title" : "Filtrer",
+  "show_title" : "Afficher par",
+  "products_articles": "Articles par page",
+  "go_to_page": "Aller à La page",
+  "no_products_msg": "Aucun produit trouvé!",
+  "no_products_p01": "Résultat introuvable, aucun produit ne correspond à votre recherche, merci de",
+  "no_products_p02": "nous contacter",
+  "no_products_p03": " pour davantage d'informations."
+
+}

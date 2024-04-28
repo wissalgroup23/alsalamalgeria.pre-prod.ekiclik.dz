@@ -1,0 +1,32 @@
+{
+  "profile": "Mon profil",
+  "modify": "Modifier",
+  "identity": "IDENTITÉ",
+  "name": "Nom et Prénom",
+  "phone": "Téléphone",
+  "connexion_infos":{
+    "title" :  "Informations de connexion",
+    "email": "Email",
+    "password": "Mot de passe"
+  },
+
+  "personnal_infos": {
+    "title" : "INFORMATIONS PERSONNELLES",
+    "id_card" : "Pièce d'identité",
+    "id_card_number" : "Numéro de la pièce",
+    "delivery_date" : "Date délivrance de la pièce",
+    "expiration_date" : "Date d'expiration de la pièce",
+    "delivery_daira" : "Daïra de délivrance de la pièce",
+    "national_id_number" : "Numéro d’identification national",
+    "social_security_number" : "Numéro de sécurité sociale",
+    "birth_certificate_number" : "Numéro d'acte de naissance",
+    "birth_date" : "Date de naissance",
+    "birth_place" : "Lieu de naissance"
+ }
+ 
+
+
+  
+
+
+}

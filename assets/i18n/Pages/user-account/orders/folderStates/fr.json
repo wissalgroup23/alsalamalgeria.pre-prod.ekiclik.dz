@@ -1,0 +1,17 @@
+{
+  "EK_FOLDER_CREATED" : "En cours de création",
+  "EK_FOLDER_IN_PROGRESS" : "En cours de traitement Ekiclik",
+  "EK_FOLDER_RESERVE" : "Réservé Ekiclik",
+  "EK_GUARTENTEES_PENDING_SIGNATURE" : "Garanties en cours de signature",
+  "EK_GUARTENTEES_SIGNED_IN_PROGRESS" : "Garanties signés en cours validation Ekiclik",
+  "EK_BANK_RESERVE" : "Dossier réserve banque",
+  "BANK_NOTIFICATION" : "Notification de la banque (Accord)",
+  "EK_BANK_REFUSED" : "Dossier Rejeté Banque",
+  "EK_FOLDER_REFUSED" : "Dossier Rejeté",
+  "CENTRAL_RISK_CONSULTATION" : "Consultation de la Centrale des Risques",
+  "EK_ADMIN_FOLDER_CANCELED" : "Dossier annulé (ADMIN)",
+  "EK_CONTROL_BEFORE_GUARANTEES_PRINTING" : "Control avant impression des garanties",
+  "CLIENT_CENTRAL_RISK_NOTIFICATION" : "Notification Client Centrale des risques",
+  "EK_BANK_IN_PROGRESS" : "Pré-notification banque"
+}
+

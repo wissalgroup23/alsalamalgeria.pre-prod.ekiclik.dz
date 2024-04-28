@@ -1,0 +1,16 @@
+{
+  "compte_comfirmed": {
+    "title": "Lien de confirmation envoyé",
+    "contenu1": "Nous vous avons envoyé un lien vers",
+    "contenu2": "Veuillez cliquer sur le lien présent dans votre boite mail pour confirmer votre inscription",
+    "qst": "Vous avez pas reçu le lien?",
+    "renvoyer_btn": "RENVOYER",
+    "confirmed_title": "Votre compte a été confirmé avec succès",
+    "redirect_msg": "Vous serez redirigé vers la page d'accueil dans 5 secondes ..",
+    "no_confirmation": "    Confirmation impossible !\n"
+  },
+"reset_mdp": {
+  "contenu_mdp": "pour réinitialiser votre mot de passe."
+
+}
+}

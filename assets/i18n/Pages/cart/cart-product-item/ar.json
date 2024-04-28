@@ -1,0 +1,9 @@
+{
+  "item_currency" : "دج",
+  "state" : "الحالة",
+  "RUPTURE_DE_STOCK": "نفاذ الكمية",
+  "EN_STOCK": "في المخزون",
+  "SUR_COMMANDE": "حسب الطلب",
+  "BIENTOT_DISPONIBLE": "سيكون متاحًا قريبًا",
+  "OBSOLETE": "غير متوفر"
+}

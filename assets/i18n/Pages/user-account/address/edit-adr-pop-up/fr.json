@@ -1,0 +1,8 @@
+{
+  "edit_adr":{
+  "edit_adr_title": "Demande de modification",
+    "edit_btn": "Modifier",
+    "edit_snack_msg": "L'adresse a été bien modifiée"
+},
+  "address_deleted_msg": "adresse supprimée"
+}

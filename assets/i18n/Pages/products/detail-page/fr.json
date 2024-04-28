@@ -1,0 +1,24 @@
+{
+  "brand": "Marque",
+  "reference": "Reference Constructeur",
+  "more": "Voir plus",
+  "payment": "Paiement sur",
+  "month": "mois",
+  "available": "En stock",
+  "on-order": "sur commande",
+  "not-available": "Non disponible",
+  "Quantity": "Quantité  disponible",
+  "associated_products": "Produits associés",
+  "add_to_cart": "Ajouter au panier",
+  "currency_month": "DZD/Mois",
+  "Montant_financement": "Montant de financement",
+  "sb_exist_product_msg": "Ce produit existe déjà , accédez a votre panier pour en modifié la quantité",
+  "sb_p_server_msg": "Une erreur est survenue !",
+  "sb_product_exist_msg": "Le produit existe déjà",
+  "sb_fav_msg": "Le produit a été ajouté à vos favoris",
+  "days_": "jours",
+  "cart-contains": "Le panier contient ce produit",
+  "QTE": "QTE",
+  "bread-crumbs-home": "Accueil"
+
+}

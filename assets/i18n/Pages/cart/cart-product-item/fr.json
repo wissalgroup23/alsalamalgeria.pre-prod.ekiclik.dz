@@ -1,0 +1,9 @@
+{
+  "item_currency" : "DZD",
+  "state" : "Etat",
+  "RUPTURE_DE_STOCK": "Bientôt disponible",
+  "EN_STOCK": "En Stock",
+  "SUR_COMMANDE": "Sur commande",
+  "BIENTOT_DISPONIBLE": "Bientôt disponible",
+  "OBSOLETE": "Non Disponible"
+}

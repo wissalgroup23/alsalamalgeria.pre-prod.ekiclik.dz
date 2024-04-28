@@ -1,0 +1,12 @@
+{
+
+  "situation_socio": "Situation Socioprofessionnelle",
+  "documents": "Documents Administratifs",
+  "display_infos" : "Affichage des informations",
+  "guaranties" : "Les garanties",
+  "bank_documents" : "Documents Bancaires",
+  "depot_dossier" : "Dépôt du dossier physique (papier)",
+  "step": {
+    "administrative": "Documents administratifs"
+  }
+}

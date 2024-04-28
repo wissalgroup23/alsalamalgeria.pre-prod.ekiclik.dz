@@ -1,0 +1,20 @@
+{
+  "popUp": {
+    "ACCOUNT_NOT_EXIST": "هذا الحساب غير موجود",
+    "ACCOUNT_NOT_ACTIVATED": "حسابك غير مفعل",
+    "ACCOUNT_BLOCKED": "حسابك محظور! اتصل بنا للحصول على مزيد من المعلومات",
+    "INCORRECT_CREDENTIALS": "بريد أو كلمة مرورغير صحيحة",
+    "LOGIN_CONNECT_TO_PRIVATE_SPACE": "تسجيل الدخول إلى حسابك الخاص",
+    "inscrire_button": "حساب جديد",
+    "mdp_oublier": "نسيت كلمة السر؟",
+    "google_sinscrire": "Google تسجيل الدخول عبر ",
+    "reste_connecte": "ابق متصلا على هذا الجهاز",
+    "mail_correct": "أدخل البريد الإلكتروني الصحيح",
+    "password_correct": "يجب أن تحتوي كلمة المرور على الأقل على 6 أحرف",
+    "mdp": "كلمة السر",
+    "partenaire": "شريكك الموثوق به",
+    "E-mail": " البريد الإلكتروني",
+    "Tel": "رقم الهاتف"
+  }
+
+}

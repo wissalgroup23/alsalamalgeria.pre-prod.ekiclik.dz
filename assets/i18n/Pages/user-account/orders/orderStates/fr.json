@@ -1,0 +1,8 @@
+{
+  "EK_ORDER_CREATED": "Commande créée",
+  "EK_ORDER_PENDING": "Commande en attente",
+  "EK_ORDER_IN_PREPARATION": "Commande en préparation",
+  "EK_ORDER_IN_DELIVERY": "Livraison en cours",
+  "EK_ORDER_DELIVERED": "Client livré",
+  "EK_CLIENT_ORDER_CANCELED": "Commande annulée"
+}

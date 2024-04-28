@@ -1,0 +1,29 @@
+{
+  "dir": "rtl",
+  "header": {
+    "call": "مركز الاتصال",
+    "ServiceCommercial": "الخدمة التجارية",
+    "loginTitle11": "تسجيل الدخول",
+    "search": "ابحث عن منتج، مرجع، علامة تجارية",
+    "DZD": "دج",
+    "cartHolder": "سلة",
+    "ProfileHolder": "الحساب",
+    "monCompte": "حسابي",
+    "Documents": "وثائق",
+    "Commandes": "طلبات",
+    "Adresses": "العناوين",
+    "SeDéconnecter": "تسجيل الخروج",
+    "other_phone_number": "يمكن أيضًا التواصل معنا على",
+    "dz-per-month": "دج / شهر",
+    "popUp": {
+      "loginTitle": "قم بتسجيل الدخول إلى مساحتك الخاصة",
+      "ACCOUNT_NOT_EXIST": "هذا الحساب غير موجود",
+      "ACCOUNT_NOT_ACTIVATED": "حسابك غير مفعل",
+      "ACCOUNT_BLOCKED": "حسابك محظور! اتصل بنا للحصول على مزيد من المعلومات",
+      "INCORRECT_CREDENTIALS": "بريد أو كلمة مرورغير صحيحة",
+      "CONNECT_TO_PRIVATE_SPACE": "قم بتسجيل الدخول إلى مساحتك الخاصة",
+      "snack_mail_exist": "Le mail est déjà  associé avec un compte EKICLICK. Merci de ré-utiliser la même méthode de connexion pour retrouver votre espace."
+
+    }
+  }
+}

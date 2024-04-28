@@ -1,0 +1,26 @@
+{
+    "brand": "العلامه التجاريه",
+    "reference": "مرجع الشركة المصنعة",
+    "more": "المزيد",
+    "payment": "الدفع على مدى",
+    "month": "شهر",
+    "available": "متوفر في المخزون",
+    "on-order": "عند الطلب",
+    "not-available": "غير متوفر",
+    "Quantity": "الكمية المتوفرة",
+    "associated_products": "منتجات ذات صلة",
+    "add_to_cart": "أضف إلى السلة",
+    "currency_month": "دج/شهر",
+    "Montant_financement": "مبلغ التمويل",
+    "sb_exist_product_msg":"هذا المنتج موجود بالفعل، اذهب إلى سلتك لتعديل الكمية",
+    "sb_p_server_msg": "حدث خطأ !",
+  "sb_product_exist_msg": "المنتج موجود بالفعل",
+  "sb_fav_msg": "تم إضافة المنتج إلى المفضلة لديك",
+  "days_": "أيام",
+  "cart-contains": "السلة تحتوي على هذا المنتج",
+  "QTE": "الكمية",
+  "bread-crumbs-home": "الصفحة الرئيسية"
+
+
+
+}

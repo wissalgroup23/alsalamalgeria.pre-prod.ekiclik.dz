@@ -1,0 +1,11 @@
+{
+  "situation_socio": "الوضع الاجتماعي والمهني",
+  "documents": " الوثائق الإدارية",
+  "display_infos" : "عرض المعلومات",
+  "guaranties" : "الضمانات",
+  "bank_documents" : "الوثائق البنكية",
+  "depot_dossier" : " تقديم الملف الورقي",
+  "step": {
+    "administrative": "وثائق إدارية"
+  }
+}

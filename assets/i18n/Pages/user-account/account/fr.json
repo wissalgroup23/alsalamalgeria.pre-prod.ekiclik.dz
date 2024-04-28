@@ -1,0 +1,18 @@
+{
+  "welcome": "Bienvenue",
+  "mr": "Mr. ",
+  "mme": "Mme. ",
+  "account-firstText": "Bienvenue sur votre espace personnalisé.",
+  "account-SecondText": "Cet espace est un tableau de bord vous permettant de gérer et consulter les informations concernant votre compte.\n Vous y trouverez tous les outils nécessaires pour modifier votre profil, consulter vos factures et les imprimer …",
+  "account-orders": "Commandes",
+  "find-orders": "Retrouvez toutes vos commandes",
+  "account-last-order": "Dernière commande",
+  "the": "le",
+  "noOrder": "aucune",
+  "addressCart": "Carnet d'adresses",
+  "manage-your-address": "Gérez vos adresses de livraison et de facturation",
+  "my-profile1": "Mon profil",
+  "manage-your-profile": "gérez votre profil",
+  "my-docs": "Mes documents",
+  "find-my-docs": "Retrouvez tous vos documents, avec la possibilité…"
+}

@@ -1,0 +1,13 @@
+{
+  "documents_bancaires": {
+    "title": "Formulaires bancaires",
+    "description": {
+      "desc1" : "Cliquer sur Télécharger pour télécharger les formulaires bancaires déjà préremplis",
+      "desc2" : "Autoriser le téléchargement de plusieurs fichiers sur votre navigateur, vérifiez-les",
+      "desc3" : "signez-les puis scannez-les et ajoutez chaque document dans la case correspondante."
+
+   }},
+  "document_bancaire" : "DOCUMENTS BANCAIRES",
+  "download_button": "Télécharger"
+
+}

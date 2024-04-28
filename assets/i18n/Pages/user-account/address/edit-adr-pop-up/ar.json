@@ -1,0 +1,10 @@
+{
+  "edit_adr":{
+    "edit_adr_title": "طلب تعديل",
+    "edit_btn": "تعديل",
+    "edit_snack_msg": "تم تغيير العنوان"
+
+  },
+  "address_deleted_msg": "تم حذف العنوان"
+
+}
